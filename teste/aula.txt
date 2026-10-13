@@ -1,1 +1,19 @@
+O versionamento (ou controle de versão) é o processo de registrar, acompanhar e gerenciar as alterações feitas em arquivos, códigos-fonte ou documentos ao longo do tempo.
+Ele permite que você saiba o que foi mudado, quem mudou, quando aconteceu e por que foi feito, além de possibilitar o retorno a uma versão anterior se algo der errado.
 
+Principais Tipos de Versionamento
+
+• Versionamento de Código / Software: Uso de ferramentas especializadas (como o Git) para gerenciar arquivos de programação, permitir o trabalho em equipe sem sobrescrever o trabalho do outro e criar ramificações (branches) paralelas. Plataformas como o GitHub facilitam esse processo.
+• Versionamento Semântico (SemVer): Padrão de numeração de softwares no formato MAJOR.MINOR.PATCH (ex: 2.1.4) para indicar a gravidade das mudanças.
+	• Major: Mudanças grandes e incompatíveis com versões anteriores.
+	• Minor: Adição de novas funções compatíveis.
+	• Patch: Correção de erros ou bugs.
+• Versionamento de Documentos: Criação de cópias evolutivas de arquivos de texto ou planilhas a cada alteração, preservando o histórico para auditoria e conformidade, muito usado em ambientes corporativos através de soluções como a DocuSign.
+• Versionamento de Impressão: Aplicação em gráficas onde a base de um arquivo permanece igual (como o fundo de uma embalagem) e apenas uma pequena parte muda (como o idioma ou endereço).
+
+Por que ele é importante?
+
+• Segurança: Evita a perda de arquivos e permite "voltar no tempo" se uma atualização estragar o projeto.
+• Trabalho em equipe: Permite que várias pessoas mexam no mesmo projeto ao mesmo tempo de forma organizada.
+• Rastreabilidade: Cria um histórico claro de auditoria e responsabilidade sobre cada modificação.
+Você gostaria de saber como começar a usar o Git e o GitHub para versionar códigos, ou tem interesse em algum tipo específico de versionamento?
